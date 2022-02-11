@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $time
+echo abc
+ls
